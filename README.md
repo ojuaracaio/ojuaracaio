@@ -18,8 +18,10 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> |
   <img align="center" alt="Caio-Golang" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"> |
-  <img align="center" alt="Caio-Inkscape" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-plain.svg"> |
-  <img align="center" alt="Caio-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Caio-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> |
+  <img align="center" alt="Caio-Inkscape" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg"> |
+  <img align="center" alt="Caio-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> |
+  
 </div>
 
  ##
