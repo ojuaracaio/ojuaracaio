@@ -21,10 +21,10 @@
   <img align="center" alt="Caio-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"> |
   <img align="center" alt="Caio-Inkscape" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg"> |
   <img align="center" alt="Caio-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"> |
-  
+  <img align="right" alt="Gif-Zoro" height="101px" width="180px" src="https://cdn.discordapp.com/attachments/728406330192429144/879896086473478214/5kpbfw.gif">
+ 
 </div>
 
- ##
 
 <!---
 ojuaracaio/ojuaracaio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
