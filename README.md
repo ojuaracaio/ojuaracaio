@@ -10,7 +10,7 @@
  <div>
   <a href="https://github.com/ojuaracaio">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ojuaracaio&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuaracaio&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuaracaio&layout=compact&langs_count=4&theme=gruvbox"/>
 </div>
 
  ##
